@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eduardo
-- 👀 I’m interested in trading and Pine Script.
+- 👀 I’m interested in trading and Pine Script development.
 - 🌱 I’m currently learning Java and Kotlin.
-- 📫 twitter: @zorak2d ...
+- 📫 https://www.linkedin.com/in/eduardolopez2d
 
 <!---
 eduardolopez2d/eduardolopez2d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
