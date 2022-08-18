@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo
-- 👀 I’m interested in trading and Pine Script development.
-- 🌱 I’m currently learning Java and Kotlin.
+- 👀 I'm trader interested in Pine Script development.
+- 🌱 I'm Full-Stack Java and Python.
 - 📫 https://www.linkedin.com/in/eduardolopez2d
 
 <!---
