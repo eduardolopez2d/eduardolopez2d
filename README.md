@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Lopez aka Zorak
+- 👋 Hi, I’m Eduardo aka Zorak
 - 👀 I'm trader interested in Pine Script development.
 - 🌱 I'm Full-Stack Java and Python.
 - 📫 https://www.linkedin.com/in/eduardolopez2d
