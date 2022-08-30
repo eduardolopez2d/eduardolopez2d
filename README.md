@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eduardo aka Zorak
 - 👀 I'm trader interested in Pine Script development.
 - 🌱 I'm Full-Stack Java and Python.
-- 📫 https://www.linkedin.com/in/eduardolopez2d
+- 📫 https://www.linkedin.com/in/eduardolopez-dev
 
 <!---
 eduardolopez2d/eduardolopez2d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
