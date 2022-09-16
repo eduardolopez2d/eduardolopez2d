@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Eduardo aka Zorak
 - 📈 Trader
 - 🖥️ Pine Script developer. Trading Bot developer.
-- ☕ Full-Stack Java and Python.
 - 📫 https://www.linkedin.com/in/EduardoLopez-Dev
 - 📱 Mobile developer with Flutter in progress...
 
