@@ -2,7 +2,7 @@
 - 📈 Trader
 - 🖥️ Pine Script development. Trading Bot developer.
 - ☕ Full-Stack Java and Python.
-- 📫 https://www.linkedin.com/in/eduardoLopez-dev
+- 📫 https://www.linkedin.com/in/EduardoLopez-Dev
 - 📱 Mobile developer with Flutter in progress...
 
 * Most of my repositories are private, if you want access to any repositoriein particular or want to see my portfolio please write me detailing the reason
