@@ -5,7 +5,7 @@
 - 📫 https://www.linkedin.com/in/eduardoLopez-dev
 - 📱 Mobile developer with Flutter in progress...
 
-* Most of my repositories are private, if you want access to any in particular please write me detailing the reason
+* Most of my repositories are private, if you want access to any repositoriein particular or want to see my portfolio please write me detailing the reason
 
 <!---
 zorakDev/zorakDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
