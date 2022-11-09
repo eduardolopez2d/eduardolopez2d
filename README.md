@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Eduardo aka Zorak
 - 📈 Trader
-- 🖥️ Pine Script developer. Trading Bot developer.
+- 🖥️ Pine Script developer / Algorithmic Trading Bot developer.
+- 🖥️ Flutter / Dart developer.
 - 📫 https://linkedin.com/in/EduardoLopez-Dev
 - 🌐 <a href="https://zorakDev.github.io/">Hello world!</a>
 
 
-* Most of my repositories are private, if you want access to any repositoriein particular or want to see my portfolio please write me detailing the reason
+// many of the repositories on pine script are private because they contain secret trading strategies, if you want access to them or take a look at my portfolio do not hesitate to write me expressing the reason
 
 <!---
 zorakDev/zorakDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
