@@ -2,7 +2,7 @@
 - 📈 Trader
 - 🖥️ Pine Script developer / Algorithmic Trading Bot developer.
 - 🖥️ Flutter / Dart developer.
-- 📫 https://linkedin.com/in/EduardoLopez-Dev
+- 📫 https://linkedin.com/in/zorakDev
 - 🌐 <a href="https://zorakDev.github.io/">Hello world!</a>
 
 
