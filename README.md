@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo aka Zorak
+- 👋 Hi, I’m Eduardo AKA Zorak
 - 📈 Trader
 - 🖥️ Pine Script developer / Algorithmic Trading Bot developer.
 - 🖥️ Flutter / Dart developer.
