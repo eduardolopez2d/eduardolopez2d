@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eduardo AKA Zorak
 - 📈 Trader
 - 🖥️ Pine Script developer for algorithmic trading.
-- 🖥️ Learning Java
+- 🖥️ Learning Flutter
 - 📫 https://linkedin.com/in/zorakDev
 - 🌐 <a href="https://zorakDev.github.io/">Hello world!</a>
 
