@@ -6,7 +6,7 @@
 - 🌐 <a href="https://zorakDev.github.io/">Hello world!</a>
 
 
-// many of the repositories with pine script code are private because they contain secret trading strategies, if you want access to them do not hesitate to write me expressing the reason
+// Many of the pine script repositories are private because they contain secret trading strategies, if you want access to them do not hesitate to write me expressing the reason
 
 <!---
 zorakDev/zorakDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
