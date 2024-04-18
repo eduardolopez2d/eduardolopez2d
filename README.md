@@ -2,7 +2,6 @@
 - 📈 Trader
 - 🖥️ Pine Script developer.
 - 🖥️ Flutter dev.
-- 🌐 https://play.google.com/store/apps/details?id=dev.zorak.screen_savvy
 
 
 // Many of the pine script repositories are private because they contain secret trading strategies, if you want access to them do not hesitate to write me expressing the reason
